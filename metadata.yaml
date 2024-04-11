@@ -1,0 +1,42 @@
+_repo: The-waning-of-a-world_73270
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Brosnatch, Andrew
+    birthdate: 1896
+    deathdate: 1965
+    gutenberg_agent_id: '54815'
+    url: http://www.gutenberg.org/2009/agents/54815
+creator:
+  author:
+    agent_name: Backus, W. Elwyn (Waldo Elwyn)
+    alias: Backus, Waldo Elwyn
+    birthdate: 1892
+    deathdate: 1979
+    gutenberg_agent_id: '57009'
+    url: http://www.gutenberg.org/2009/agents/57009
+description: ''
+gutenberg_issued: '2024-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73270'
+language: en
+pgterms:marc904: https://archive.org/details/WeirdTalesV06N05192511
+pgterms:marc905: 20231125065704backus
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aIndianapolis, IN :$bPopular Fiction Publishing Company, $c1925,
+  copyright 1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Martians -- Fiction'
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Space flight to Mars -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The waning of a world
+url: http://www.gutenberg.org/ebooks/73270
