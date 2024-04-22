@@ -7,6 +7,9 @@ contributor:
     deathdate: 1965
     gutenberg_agent_id: '54815'
     url: http://www.gutenberg.org/2009/agents/54815
+covers:
+- cover_type: archival
+  image_path: 73270-h/images/cover.jpg
 creator:
   author:
     agent_name: Backus, W. Elwyn (Waldo Elwyn)
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '57009'
     url: http://www.gutenberg.org/2009/agents/57009
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73270#The-waning-of-a-world
 gutenberg_issued: '2024-03-27'
 gutenberg_type: Text
 identifiers:
